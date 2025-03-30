@@ -1,6 +1,6 @@
 # ImageDotter
 
- Convert images into nice-looking black-and-white dotted grids. Available at [martcho.uk/app/dotter](https://martcho.uk/app/dotter).
+ Convert images into nice-looking black-and-white dotted grids. Works best on high-contrast images. Available at [martcho.uk/app/dotter](https://martcho.uk/app/dotter).
 
  ## Example: The milky way
 
